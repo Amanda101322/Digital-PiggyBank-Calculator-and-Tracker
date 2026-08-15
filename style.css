@@ -1,4 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
+    background-color: #f8f4f0;
+    color: #29233d;
     font-family: Arial, sans-serif;
+}
+
+.dashboard-header {
+    margin-bottom: 40px;
+}
+
+.greeting h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.greeting p {
+    margin: 8px 0 0;
+    color: #756f7f;
+    font-size: 16px;
 }
